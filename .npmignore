@@ -1,0 +1,6 @@
+tsconfig.json
+package-lock.json
+.prettierrc
+node-modules/
+public/
+src/
