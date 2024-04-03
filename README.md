@@ -1,8 +1,8 @@
 # @lasbe/loader
 
-[NPM](https://www.npmjs.com/package/@lasbe/loader)
-[Github](https://github.com/LasBe-code/react-loader)
-[Blog](https://lasbe.tistory.com/)
+[NPM](https://www.npmjs.com/package/@lasbe/loader)  
+[Github](https://github.com/LasBe-code/react-loader)  
+[Blog](https://lasbe.tistory.com/)  
 로딩 상태를 표현하기 위한 가장 기본적인 생김새의 Loader 컴포넌트입니다.  
 기본 값을 설정하고 싶으면 Provider를 감아주시고, `defaultStyle`에 값을 넣어주시면 됩니다.
 
